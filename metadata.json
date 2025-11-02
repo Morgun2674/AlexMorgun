@@ -1,0 +1,5 @@
+{
+  "name": "Batch Photo Renamer",
+  "description": "An application to upload up to 15 photos and rename them sequentially with a given base name. The renamed files can then be downloaded as a ZIP archive.",
+  "requestFramePermissions": []
+}
